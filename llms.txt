@@ -1,0 +1,17 @@
+# Crayon Compass Press
+
+> Independent publisher of screen-free activity books, phonics workbooks and decodable storybooks for kids ages 3-12. Books are sold on Amazon.
+
+## Books
+- [My Big Trace & Draw Adventure](https://crayoncompasspress.github.io/books/trace-and-draw.html): A Pre-Writing Workbook for Kids Ages 3-5. Ages 3-5. Paperback.
+- [Dino Dot-to-Dot Quest](https://crayoncompasspress.github.io/books/dino-dot-to-dot.html): 100 Puzzles to Connect, Discover & Color. Ages 4-7. Paperback.
+- [Christmas Gift Quest](https://crayoncompasspress.github.io/books/christmas-gift-quest.html): A Holiday Activity Book for Kids Ages 3-6. Ages 3-6. Paperback.
+- [Tap! Tap! Tap! Phonics Workbook](https://crayoncompasspress.github.io/books/tap-tap-tap-phonics-workbook.html): Learn to Read Phonics Workbook, Level 1. Ages 4-6. Paperback.
+- [Tap! Tap! Tap! Storybook](https://crayoncompasspress.github.io/books/tap-tap-tap-storybook.html): The Storybook, Level 1. Ages 4-6. Paperback and Kindle.
+- [Flap! Flap! Flap! Storybook](https://crayoncompasspress.github.io/books/flap-flap-flap-storybook.html): The Storybook, Level 2. Ages 4-7. Kindle eBook.
+- [Robot Brain Math](https://crayoncompasspress.github.io/books/robot-brain-math.html): 4th & 5th Grade Math & Logic Workbook: Learn How AI Really Works. Ages 9-11. Paperback.
+- [Robot Brain Puzzles](https://crayoncompasspress.github.io/books/robot-brain-puzzles.html): The Case of the Glitching Robot: Logic Puzzles, Secret Codes & Mysteries for Kids 8-12. Ages 8-12. Paperback.
+
+## More
+- [About](https://crayoncompasspress.github.io/about.html)
+- [Amazon author page](https://www.amazon.com/author/crayoncompasspress)
