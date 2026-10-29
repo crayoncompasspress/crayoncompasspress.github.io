@@ -12,6 +12,11 @@
 - [Robot Brain Math](https://crayoncompasspress.github.io/books/robot-brain-math.html): 4th & 5th Grade Math & Logic Workbook: Learn How AI Really Works. Ages 9-11. Paperback.
 - [Robot Brain Puzzles](https://crayoncompasspress.github.io/books/robot-brain-puzzles.html): The Case of the Glitching Robot: Logic Puzzles, Secret Codes & Mysteries for Kids 8-12. Ages 8-12. Paperback.
 
-## More
+## Guides
+- [Books by age](https://crayoncompasspress.github.io/books-by-age.html)
+- [Reading levels guide](https://crayoncompasspress.github.io/reading-levels.html)
+- [Free printables](https://crayoncompasspress.github.io/free-printables.html)
+
+## About
 - [About](https://crayoncompasspress.github.io/about.html)
-- [Amazon author page](https://www.amazon.com/author/crayoncompasspress)
+- [How we make our books](https://crayoncompasspress.github.io/how-we-make-our-books.html)
