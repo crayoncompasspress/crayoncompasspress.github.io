@@ -31,6 +31,7 @@ All are decodable: every story word can be sounded out with the sounds taught so
 - [Books by age](https://crayoncompasspress.github.io/books-by-age.html)
 - [Reading levels guide](https://crayoncompasspress.github.io/reading-levels.html)
 - [Free printables](https://crayoncompasspress.github.io/free-printables.html)
+- [How to teach your child to blend sounds into words](https://crayoncompasspress.github.io/guides/how-to-teach-blending.html): A simple, step-by-step way to teach a child to blend sounds into words, with games, a 5-minute routine and fixes for the most common snags.
 
 ## About
 - [About](https://crayoncompasspress.github.io/about.html)
