@@ -3,16 +3,29 @@
 > Independent publisher of screen-free activity books, phonics workbooks and decodable storybooks for kids ages 3-12. Books are sold on Amazon.
 
 ## Books
-- [My Big Trace & Draw Adventure](https://crayoncompasspress.github.io/books/trace-and-draw.html): A Pre-Writing Workbook for Kids Ages 3-5. Ages 3-5. Paperback.
-- [Dino Dot-to-Dot Quest](https://crayoncompasspress.github.io/books/dino-dot-to-dot.html): 100 Puzzles to Connect, Discover & Color. Ages 4-7. Paperback.
-- [Christmas Gift Quest](https://crayoncompasspress.github.io/books/christmas-gift-quest.html): A Holiday Activity Book for Kids Ages 3-6. Ages 3-6. Paperback.
-- [The Kindergarten Reader](https://crayoncompasspress.github.io/books/the-kindergarten-reader.html): 25 Decodable Stories for Brand-New Readers. Ages 4-6. Paperback and Kindle.
-- [Tap! Tap! Tap! Phonics Workbook](https://crayoncompasspress.github.io/books/tap-tap-tap-phonics-workbook.html): Learn to Read Phonics Workbook, Level 1. Ages 4-6. Paperback.
-- [Tap! Tap! Tap! Storybook](https://crayoncompasspress.github.io/books/tap-tap-tap-storybook.html): The Storybook, Level 1. Ages 4-6. Paperback and Kindle.
-- [Flap! Flap! Flap! Storybook](https://crayoncompasspress.github.io/books/flap-flap-flap-storybook.html): The Storybook, Level 2. Ages 4-7. Paperback and Kindle.
-- [Whee! Whee! Whee! Storybook](https://crayoncompasspress.github.io/books/whee-whee-whee-storybook.html): The Storybook, Level 3. Ages 5-7. Paperback and Kindle.
-- [Robot Brain Math](https://crayoncompasspress.github.io/books/robot-brain-math.html): 4th & 5th Grade Math & Logic Workbook: Learn How AI Really Works. Ages 9-11. Paperback.
-- [Robot Brain Puzzles](https://crayoncompasspress.github.io/books/robot-brain-puzzles.html): The Case of the Glitching Robot: Logic Puzzles, Secret Codes & Mysteries for Kids 8-12. Ages 8-12. Paperback.
+- [My Big Trace & Draw Adventure](https://crayoncompasspress.github.io/books/trace-and-draw.html): A Pre-Writing Workbook for Kids Ages 3-5. Ages 3-5. Paperback. Practices: Pencil control and pre-writing strokes; Shapes, numbers 1-10 and capital letters; Fine motor skills and focus.
+- [Dino Dot-to-Dot Quest](https://crayoncompasspress.github.io/books/dino-dot-to-dot.html): 100 Puzzles to Connect, Discover & Color. Ages 4-7. Paperback. Practices: Counting and number order; Hand-eye coordination; Dinosaur facts and new words.
+- [Christmas Gift Quest](https://crayoncompasspress.github.io/books/christmas-gift-quest.html): A Holiday Activity Book for Kids Ages 3-6. Ages 3-6. Paperback. Practices: Counting, matching and patterns; Pencil control with mazes and tracing; Creativity: coloring and drawing.
+- [The Kindergarten Reader](https://crayoncompasspress.github.io/books/the-kindergarten-reader.html): 25 Decodable Stories for Brand-New Readers. Ages 4-6. Paperback and Kindle. Practices: Blending first sounds: s, a, t, p, i, n; Short vowels, then ck, ff, ll, ss, x, qu, ch, sh, th, ng; Reading 25 short stories alone.
+- [Tap! Tap! Tap! Phonics Workbook](https://crayoncompasspress.github.io/books/tap-tap-tap-phonics-workbook.html): Learn to Read Phonics Workbook, Level 1. Ages 4-6. Paperback. Practices: 31 letter sounds in a gentle order; Blending sounds into words; Reading first decodable sentences.
+- [Tap! Tap! Tap! Storybook](https://crayoncompasspress.github.io/books/tap-tap-tap-storybook.html): The Storybook, Level 1. Ages 4-6. Paperback and Kindle. Practices: Reading a real story alone; Level 1 sounds: short vowels, ch, sh, th, ck; Talking about a story.
+- [Flap! Flap! Flap! Storybook](https://crayoncompasspress.github.io/books/flap-flap-flap-storybook.html): The Storybook, Level 2. Ages 4-7. Paperback and Kindle. Practices: Blends like fl, st, gr and nd; Two-part words like sunset and picnic; Reading with expression.
+- [Whee! Whee! Whee! Storybook](https://crayoncompasspress.github.io/books/whee-whee-whee-storybook.html): The Storybook, Level 3. Ages 5-7. Paperback and Kindle. Practices: Long vowels: silent e, oa/ow, ee/ea, ai/ay, igh, y; Tricky words so, come, they; Reading a longer story alone.
+- [Robot Brain Math](https://crayoncompasspress.github.io/books/robot-brain-math.html): 4th & 5th Grade Math & Logic Workbook: Learn How AI Really Works. Ages 9-11. Paperback. Practices: Grade 4-5 math practice (about 460 problems); How AI learns, explained simply; Logic and problem solving.
+- [Robot Brain Puzzles](https://crayoncompasspress.github.io/books/robot-brain-puzzles.html): The Case of the Glitching Robot: Logic Puzzles, Secret Codes & Mysteries for Kids 8-12. Ages 8-12. Paperback. Practices: Logic grids and deduction; Codes, patterns and step-by-step thinking; Reading a mystery for clues.
+
+## Reading order (Pencil Rangers Learn to Read)
+1. The Kindergarten Reader: first 6 sounds (s, a, t, p, i, n), then short vowels and ch, sh, th, ng. 25 very short stories. Ages 4-6.
+2. Tap! Tap! Tap! (Level 1): workbook teaches 31 letter sounds; storybook is a longer story using only Level 1 sounds. Ages 4-6.
+3. Flap! Flap! Flap! (Level 2): blends (fl, st, gr, nd), -ing and -nk words, two-part words. Ages 4-7.
+4. Whee! Whee! Whee! (Level 3): long vowels (silent e, oa/ow, ee/ea, ai/ay, igh, y). Ages 5-7.
+All are decodable: every story word can be sounded out with the sounds taught so far, plus a few listed tricky words.
+
+## Free games (no ads, no sign-up)
+- [Dot-to-dot online](https://crayoncompasspress.github.io/games/dot-to-dot-online.html): Tap the dots in order to find a star, a fish and a dinosaur. Ages 3-7.
+- [Sound it out: CVC words](https://crayoncompasspress.github.io/games/cvc-word-game.html): Look at the picture, say the sounds, tap the letters. Ages 4-6.
+- [Christmas maze](https://crayoncompasspress.github.io/games/christmas-maze.html): Bring the gift to the tree. A new maze every time, and you can print it. Ages 3-8.
+- [Robot secret code](https://crayoncompasspress.github.io/games/secret-code-game.html): Crack the robot's number code with the key. Three levels. Ages 7-12.
 
 ## Guides
 - [Books by age](https://crayoncompasspress.github.io/books-by-age.html)
